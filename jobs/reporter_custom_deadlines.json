@@ -1,0 +1,5 @@
+{
+  "_comment": "Custom deadlines for specific reporters. Format: 'UserID': 'HH:MM:SS'",
+  "_example": "To set a custom deadline of 9:00 AM for user U123456789, add: 'U123456789': '09:00:00'",
+  "_default": "Default deadline is 13:00:00 (1:00 PM) if not specified here"
+}
